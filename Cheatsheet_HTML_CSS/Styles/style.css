@@ -29,7 +29,7 @@ margin: 0 auto;
 text-align: center;
 background-color: rgb(234, 135, 221);
 }
-tbody {
+tbody, tfoot{
 font-family: Georgia, serif;
 }
 
