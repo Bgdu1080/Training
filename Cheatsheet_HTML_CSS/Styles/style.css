@@ -1,0 +1,45 @@
+html {
+    background-color: rgba(100,100,250,0.15);
+  }
+header, h2{
+    font-family: 'Courier New', Courier, monospace;
+    margin: 0 auto;
+    text-align: center;
+    width: 100%;
+}
+
+h2 {
+    color: purple;
+    padding-bottom: 20px;
+}
+
+section {
+    margin: 30px auto;
+}
+
+table {
+border: 2px solid rgb(131, 28, 144);
+margin: 0 auto;
+min-width: 600px;
+}
+thead {
+font-family: Georgia, serif;
+font-weight: bold;
+margin: 0 auto;
+text-align: center;
+background-color: rgb(234, 135, 221);
+}
+tbody {
+font-family: Georgia, serif;
+}
+
+thead td, tbody td {
+border-bottom: 1px solid purple;
+}
+
+nav {
+  width: 100%;
+  margin: auto auto;
+  text-align: center;
+}
+  
