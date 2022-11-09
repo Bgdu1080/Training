@@ -37,6 +37,10 @@ thead td, tbody td {
 border-bottom: 1px solid purple;
 }
 
+span {
+    background-color: rgba(255, 255, 144,0.5);
+}
+
 nav {
   width: 100%;
   margin: auto auto;
