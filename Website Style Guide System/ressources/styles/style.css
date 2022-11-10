@@ -1,0 +1,30 @@
+#mainField {
+    margin: 0 auto;
+    max-width: 1200px;
+    min-width: 500px;
+}
+#Colors {
+    border: 3px solid black;
+    padding-bottom: 100px;
+}
+#Colors div {
+    float: left;
+}
+
+#Coolblue {
+    background-color: #2d5dcc;
+    position: relative;
+    left: 0;
+}
+
+#Pink {
+    background-color: #d957d9;
+}
+
+#MintGreen {
+    background-color: #4fe0b0;
+}
+
+#Beige {
+    background-color: #efd9ca;
+}
